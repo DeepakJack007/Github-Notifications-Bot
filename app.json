@@ -1,14 +1,14 @@
 {
-    "name": "Git",
+    "name": "Github-Notifications-Bot",
     "description": "GitHub and GitLab Integration for Telegram Bot API",
     "logo": "",
     "keywords": [
         "telegram",
         "github"
     ],
-    "repository": "https://github.com/Xlaaf/Git",
-    "website": "https://github.com/Xlaaf/Git",
-    "success_url": "https://t.me/GitHelpBot",
+    "repository": "https://github.com/shukurenaibotcreate/Github-Notifications-Bot",
+    "website": "https://github.com/shukurenaibotcreate/Github-Notifications-Bot",
+    "success_url": "https://t.me/shukurenairobot007",
     "stack": "heroku-20",
     "env": {
         "ENV": {
