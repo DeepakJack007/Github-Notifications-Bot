@@ -1,4 +1,4 @@
-[![KrustyGit](https://img.shields.io/badge/Krusty-Git-Red?logo=telegram)](https://t.me/krustygitbot)
+[![KrustyGit](https://img.shields.io/badge/Github-Notifications-Bot?logo=telegram)](https://t.me/krustygitbot)
 
 # Git - Github Integration for Telegram Bot API
 
@@ -13,4 +13,4 @@
 ## Deploy on Heroku:
 If you want to deploy this app on Heroku, there's a one-click setup for that. Click below, fill up the form and hit **Deploy App**.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Xlaaf/Git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shukurenaibotcreate/Github-Notifications-Bot)
