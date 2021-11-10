@@ -1,7 +1,7 @@
 {
     "name": "Github-Notifications-Bot",
     "description": "GitHub and GitLab Integration for Telegram Bot API",
-    "logo": "",
+    "logo": "https://telegra.ph/file/16a52ec2f672709582c05.jpg",
     "keywords": [
         "telegram",
         "github"
