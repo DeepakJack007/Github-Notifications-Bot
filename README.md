@@ -1,4 +1,4 @@
-[![KrustyGit](https://img.shields.io/badge/Github-Notifications-Bot?logo=telegram)](https://t.me/krustygitbot)
+[![KrustyGit](https://img.shields.io/badge/Github-Notifications-Bot?logo=telegram)](https://t.me/shukurenai006bot)
 
 #  Github-Notifications-Bot - Github Integration for Telegram Bot 
 
