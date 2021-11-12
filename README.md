@@ -1,6 +1,6 @@
 [![KrustyGit](https://img.shields.io/badge/Github-Notifications-Bot?logo=telegram)](https://t.me/krustygitbot)
 
-# Git - Github Integration for Telegram Bot API
+#  Github-Notifications-Bot - Github Integration for Telegram Bot 
 
 ## Setup:
 - Install all requirements, `pip3 install -r requirements.txt`
